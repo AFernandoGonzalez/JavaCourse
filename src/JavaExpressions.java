@@ -4,7 +4,7 @@ public class JavaExpressions {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		double friends = 10;
+		double friends = 20;
 		friends = friends + 3;
 		friends = friends - 1;
 		friends = friends * 1;
